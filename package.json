@@ -1,0 +1,23 @@
+{
+  "name": "discord_demotivator_bot",
+  "version": "1.0.0",
+  "description": "discord demotivator bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zispidd/discord_demotivator.git"
+  },
+  "author": "Zispidd <rrgrggrgrgrgrgrgg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zispidd/discord_demotivator/issues"
+  },
+  "homepage": "https://github.com/zispidd/discord_demotivator#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "canvas": "^2.6.1"
+  }
+}
